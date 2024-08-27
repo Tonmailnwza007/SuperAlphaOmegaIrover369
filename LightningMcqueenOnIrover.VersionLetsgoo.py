@@ -6,6 +6,7 @@ w.led(1) #ไฟสีแดงเปิด
 refL=1350 #ค่าที่ได้จากการวัดค่าแสง ด้าน L port32
 refR=1150 #ค่าที่ได้จากการวัดค่าแสง ด้าน R port33
 
+#Suii
 #Lightning Mcqueeen Sectionnnnnnnnnn
 speed_forward = 30  # ความเร็วเดินหน้า
 speed_left = 30     # ความเร็วหมุนซ้าย
